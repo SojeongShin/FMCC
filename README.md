@@ -1,2 +1,2 @@
 # FMCC (Femal Male Classification Challenge)
-### Artificial Intelligence Model for Distinguishing Between Male and Female Voices Mixed with TV Noise
+### CNN Model for Distinguishing Between Male and Female Voices Mixed with TV Noise
